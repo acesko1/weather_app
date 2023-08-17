@@ -1,0 +1,18 @@
+.container {
+  max-width:1080px;
+  margin: 20px auto;
+}
+
+.button-generate {
+  padding: 5px;
+  position: flex;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 40%;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  color:white;
+}

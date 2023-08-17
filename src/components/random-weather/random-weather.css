@@ -1,0 +1,19 @@
+.card {
+  width: 150px;
+  height: 300px;
+  border-radius: 6px;
+  box-shadow: 10px -2px 20px 2 px rgb(0 0 0 / 30%);
+  color: #ffff;
+  background-image: url("https://news-cdn.softpedia.com/images/news2/YoWindow-for-iOS-a-User-Friendly-Animated-Weather-App-18.png");
+  margin: 20px auto 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+.icon-small {
+  width: 40px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
